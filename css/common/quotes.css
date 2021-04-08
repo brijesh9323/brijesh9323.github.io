@@ -1,6 +1,6 @@
 @media (min-width: 360px) {
   .main-quote-items {
-    background-image: url("../../images/quotes-bg-img.jpg");
+    background-image: url("../../quotes-bg-img.jpg");
     height: 250px;
     background-position: center;
     background-size: cover;
