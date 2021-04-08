@@ -199,67 +199,6 @@ body {
     font-size: 0.875rem;
   }
 
-  /* social section start */
-
-  /* .main-social-items {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-
-  .soc-item-list {
-    width: 90%;
-    padding: 59px 0 70px;
-    border-top: 1px solid rgba(54, 37, 28, 0.5);
-  }
-
-  .social-titl {
-    font-family: "Canela-Light", "CeraPro", "Montserrat", "sans-serif";
-    color: #38251d;
-    font-size: 1.5rem;
-    font-weight: normal;
-    letter-spacing: 2px;
-    margin: 0;
-  }
-
-  .social-para {
-    color: rgba(56, 37, 29, 0.7);
-    font-family: "CeraPro", "Montserrat", "Canela-Light", "sans-serif";
-    font-weight: 300;
-    font-size: 0.75rem;
-    margin: 18px 0 43px;
-  }
-
-  .social-imag-item {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    justify-content: space-between;
-  }
-
-  .social-imag-wrapr-sm {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .social-imag-item > :last-child {
-    margin-top: 0px;
-  }
-
-  .social-imag-list {
-    width: 80%;
-    height: 260px;
-    margin-top: 15px;
-  }
-
-  .social-imag {
-    object-fit: cover;
-    height: 100%;
-    width: 100%;
-  } */
-
   /* quotes section start */
 
   .main-quote-items {
@@ -402,36 +341,6 @@ body {
     font-size: 1rem;
   }
 
-  /* social section start */
-  /* .soc-item-list {
-    width: 84%;
-    padding: 79px 0 90px;
-  }
-
-  .social-titl {
-    font-size: 1.625rem;
-    letter-spacing: 3px;
-  }
-
-  .social-para {
-    font-size: 0.8125rem;
-    margin: 20px 0 53px;
-  }
-
-  .social-imag-wrapr-sm {
-    justify-content: space-between;
-    flex-direction: row;
-  }
-
-  .social-imag-item > :last-child {
-    margin-top: 10px;
-  }
-
-  .social-imag-list {
-    width: 49%;
-    margin-top: 0;
-  } */
-
   /* quotes section start */
 
   .main-quote-items {
@@ -514,22 +423,6 @@ body {
     margin: 100px 0 110px;
   }
 
-  /* social section start */
-
-  /* .soc-item-list {
-    width: 70%;
-    padding: 99px 0 110px;
-  }
-
-  .social-titl {
-    font-size: 1.75rem;
-    letter-spacing: 4px;
-  }
-
-  .social-imag-item > :last-child {
-    margin-top: 12px;
-  } */
-
   /* quotes section start */
 
   .main-quote-items {
@@ -561,24 +454,6 @@ body {
   .content-wrapr {
     width: 90%;
   }
-
-  /* social section start */
-
-  /* .soc-item-list {
-    width: 88%;
-  }
-
-  .social-imag-item {
-    flex-direction: row;
-  }
-
-  .social-imag-wrapr-sm {
-    width: 49.5%;
-  }
-
-  .social-imag-item > :last-child {
-    margin-top: 0px;
-  } */
 
   /* quotes section start */
 
