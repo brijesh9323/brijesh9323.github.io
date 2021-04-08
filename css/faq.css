@@ -1,0 +1,119 @@
+/* start */
+
+@media (min-width: 360px) {
+  .faq-main-titl {
+    font-family: "CeraPro", "Montserrat", "Canela-Light", "sans-serif";
+    font-size: 1.875rem;
+    margin: 0 0 64px;
+    font-weight: normal;
+  }
+
+  /* accordain start */
+
+  .faq-qust {
+    padding: 20px 10px;
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid rgba(56, 37, 29, 0.1);
+    cursor: pointer;
+    align-items: center;
+  }
+
+  .clk-arow {
+    width: 14px;
+    height: 14px;
+  }
+
+  .sub-titl {
+    margin: 0;
+    font-family: "CeraPro", "Montserrat", "Canela-Light", "sans-serif";
+    font-weight: normal;
+    font-size: 1.25rem;
+  }
+
+  .faq-content {
+    display: none;
+    color: #38251d;
+    padding: 30px 10px 20px 10px;
+  }
+
+  .contnt-sub-titl {
+    font-family: "CeraPro", "Montserrat", "Canela-Light", "sans-serif";
+    font-weight: 300;
+    font-size: 1.125rem;
+    margin: 0;
+  }
+
+  .faq-sub-content {
+    font-family: "CeraPro", "Montserrat", "Canela-Light", "sans-serif";
+    font-weight: 300;
+    font-size: 0.875rem;
+    margin: 20px 0 40px;
+    line-height: 2;
+  }
+
+  .rotat {
+    transform: rotate(180deg);
+    transition: all 0.5s;
+  }
+
+  .faq-btn {
+    fill: #e0825e;
+  }
+
+  /* accordain end */
+}
+
+@media (min-width: 576px) {
+  .faq-main-titl {
+    font-size: 2rem;
+  }
+
+  .sub-titl {
+    font-size: 1.375rem;
+  }
+
+  .contnt-sub-titl {
+    font-size: 1.25rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .faq-main-titl {
+    font-size: 2.125rem;
+    margin: 0 0 94px;
+  }
+
+  .sub-titl {
+    font-size: 1.5rem;
+  }
+
+  .clk-arow {
+    width: 16px;
+    height: 16px;
+  }
+
+  .contnt-sub-titl {
+    font-size: 1.375rem;
+  }
+
+  .faq-sub-content {
+    font-size: 0.9375rem;
+  }
+}
+
+@media (min-width: 1360px) {
+  .faq-main-titl {
+    font-size: 2.25rem;
+  }
+
+  .sub-titl {
+    font-size: 1.625rem;
+  }
+
+  .contnt-sub-titl {
+    font-size: 1.5rem;
+  }
+}
+
+/* end */
