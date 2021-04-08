@@ -1,0 +1,85 @@
+@media (min-width: 360px) {
+  .main-quote-items {
+    background-image: url("../../images/quotes-bg-img.jpg");
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .quotes-item-list {
+    height: 60%;
+    width: 80%;
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border-radius: 2.1875rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .quotes-wrapr {
+    width: 90%;
+    line-height: 1.6;
+  }
+
+  .fruit-quote {
+    margin: 0;
+    font-family: "Canela-Light", "CeraPro", "Montserrat", "sans-serif";
+    font-size: 1.125rem;
+    color: rgba(254, 254, 254, 0.89);
+    word-spacing: 4.5px;
+  }
+}
+
+@media (min-width: 576px) {
+  .main-quote-items {
+    height: 300px;
+  }
+}
+
+@media (min-width: 768px) {
+  .main-quote-items {
+    height: 400px;
+  }
+
+  .quotes-item-list {
+    height: 55%;
+    width: 75%;
+  }
+
+  .quotes-wrapr {
+    width: 80%;
+  }
+
+  .fruit-quote {
+    font-size: 1.625rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .main-quote-items {
+    height: 450px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .main-quote-items {
+    height: 500px;
+  }
+
+  .fruit-quote {
+    font-size: 1.875rem;
+  }
+}
+
+@media (min-width: 1360px) {
+  .quotes-item-list {
+    width: 65%;
+  }
+}
