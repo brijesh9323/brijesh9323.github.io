@@ -1,13 +1,13 @@
 /* Global Setting */
 
 @font-face {
-  src: url("../../fonts/CeraPro-Regular.woff"),
+  src: url("../../CeraPro-Regular.woff"),
     url("../../fonts/CeraPro-Regular.otf");
   font-family: "CeraPro";
 }
 
 @font-face {
-  src: url("../../fonts/CeraPro-Light.woff"),
+  src: url("../../CeraPro-Light.woff"),
     url("../../fonts/CeraPro-Light.otf");
   font-family: "CeraPro";
   font-weight: 300;
@@ -15,19 +15,19 @@
 
 @font-face {
   font-family: "Canela-Light";
-  src: url("../../fonts/Canela-Light.woff"), url("../../fonts/Canela-Light.otf");
+  src: url("../../Canela-Light.woff"), url("../../fonts/Canela-Light.otf");
 }
 
 @font-face {
   font-family: "Montserrat";
-  src: url("../../fonts/Montserrat-Light.woff"),
+  src: url("../../Montserrat-Light.woff"),
     url("../../fonts/Montserrat-Light.otf");
 }
 
 @font-face {
   font-family: "Montserrat";
   font-weight: 300;
-  src: url("../../fonts/Montserrat-Light.woff"),
+  src: url("../../Montserrat-Light.woff"),
     url("../../fonts/Montserrat-Light.otf");
 }
 
